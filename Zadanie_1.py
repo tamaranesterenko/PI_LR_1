@@ -1,3 +1,6 @@
+#!/usr/bin/python
+# -*- coding: utf-8
+
 import math
 import cmath
 z = 2+2*math.sqrt(3)*1j
